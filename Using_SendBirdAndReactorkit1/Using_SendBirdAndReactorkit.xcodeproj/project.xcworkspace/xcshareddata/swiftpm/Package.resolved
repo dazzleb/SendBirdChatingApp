@@ -1,0 +1,68 @@
+{
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "80e578940a9980166ec4ec65f93d3e4aa4343be7"
+      }
+    },
+    {
+      "identity" : "reactorkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactorKit/ReactorKit.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "8f66235543950ee6b91b1299521b7e04bb8d78d6"
+      }
+    },
+    {
+      "identity" : "rxexpect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/devxoul/RxExpect.git",
+      "state" : {
+        "revision" : "c3a3bb3d46ee831582c6619ecc48cda1cdbff890",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "95917a57a58734cd7b747361add398906e8b255c"
+      }
+    },
+    {
+      "identity" : "rxviewcontroller",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/devxoul/RxViewController",
+      "state" : {
+        "revision" : "072b223dc9e39764fbc5574b2c9a3a7792e2185b",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "sendbird-chat-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sendbird/sendbird-chat-sdk-ios",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f1e42ee7d408694a517dfe9f1827657180b61b3d"
+      }
+    },
+    {
+      "identity" : "weakmaptable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactorKit/WeakMapTable.git",
+      "state" : {
+        "revision" : "cb05d64cef2bbf51e85c53adee937df46540a74e",
+        "version" : "1.2.1"
+      }
+    }
+  ],
+  "version" : 2
+}
